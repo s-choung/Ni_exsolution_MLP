@@ -1,3 +1,3 @@
-# Ni_esxsolution_MLP
+# Ni_exsolution_MLP
 
 Seokhyun, Igon, Uchan
