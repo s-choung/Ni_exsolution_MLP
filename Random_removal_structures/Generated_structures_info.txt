@@ -1,0 +1,3 @@
+Nidop, Cevac, Ovac <=25at%
+Bulk: 1173 structures
+Slab: 189*5 = 945 structures
